@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color:#080A32;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+}
+h2{font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+font-size: 16px;
+}
+body{
+	background-image: url("laptop wallpaper.jpg")
+}
